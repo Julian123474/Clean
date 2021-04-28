@@ -2,7 +2,6 @@
 </head>
 <meta charset="utf-8">
 <body >
-background="planeta111.jpg">
   <h1><b><font color="yellow"><marquee>Sistema Solar</marquee></font></b></h1>
 <p><b><font color="silver"><center>El Sistema Solar es un sistema planetario de la galaxia Vía Láctea que se encuentra en uno de los brazos de ésta, conocido como el Brazo de Orión</b></font></p>
 <p><b><font color="silver">Está formado por una única estrella llamada Sol, la cual le da nombre a este sistema, y ocho planetas, más el conjunto de planetas enanos que orbitan alrededor de la estrella, de los cuales los más conocidos son: Plutón, (136199) Eris, Makemake, Haumea y Ceres; al igual que el espacio interplanetario comprendido entre ellos. En la actualidad se conocen también otros 283 sistemas planetarios orbitando alrededor de otras estrellas de los cuales de 23 se conocen dos exoplanetas, de 9 se conocen tres, de uno se conocen cuatro y de otro cinco.</b></font></p>
